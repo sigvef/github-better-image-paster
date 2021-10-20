@@ -6,7 +6,7 @@ function replacer() {
         if (name.startsWith("Uploading")) {
           return `![${name}](${url})`;
         }
-        return `<pre align=center><img height=350 alt src="${url}"></pre>`;
+        return `<pre align=center><img width=200 alt src="${url}"></pre>`;
       }
     );
   });
