@@ -3,7 +3,7 @@
 
     "name": "GitHub Better Image Paster",
     "description": "This extension adds some minimal style to pasted images on GitHub.",
-    "version": "1.0",
+    "version": "1.3",
 
     "browser_action": {
         "default_icon": "icon.png",
